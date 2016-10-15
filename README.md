@@ -1,0 +1,2 @@
+npmm install
+ng serve
